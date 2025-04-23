@@ -159,29 +159,29 @@ i.box-circle-solid {
     top: 0;
     z-index: -1;
 }
-
+/*about as*/
+.sec-bg-02 {
+    background: url("../assets/section-about.jpg");
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: cover;
+}
+/*services*/
 .bg-right {
-    background: url("https://grafreez.com/wp-content/temp_demos/razor/img/sec-bg-01.jpg");
+    background: url("../assets/section-services.jpg");
     background-repeat: no-repeat;
     background-position: top right;
 }
-
-.sec-bg-02 {
-    background: url("https://grafreez.com/wp-content/temp_demos/razor/img/sec-bg-02.jpg");
-    background-repeat: no-repeat;
-    background-position: top left;
-    background-size: cover;
-}
-
+/*prices*/
 .sec-bg-03 {
-    background: url("https://grafreez.com/wp-content/temp_demos/razor/img/sec-bg-03.jpg");
+    background: url("../assets/section-prices.jpg");
     background-repeat: no-repeat;
     background-position: top left;
     background-size: cover;
 }
-
+/*team*/
 .sec-bg-04 {
-    background: url("https://grafreez.com/wp-content/temp_demos/razor/img/sec-bg-04.jpg");
+    background: url("../assets/section-team.jpeg");
     background-repeat: no-repeat;
     background-position: top left;
     background-size: cover;
