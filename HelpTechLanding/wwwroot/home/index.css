@@ -317,7 +317,7 @@ i.box-circle-solid {
 }
 
 .intro-bg {
-    background: url("https://grafreez.com/wp-content/temp_demos/razor/img/intro-bg-01.jpg");
+    background: url("../assets/section-presentation.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
